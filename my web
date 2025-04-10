@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Kuraior Terkumbur Janet">
+    <meta name="description" content="Freelance Professional & Administrative Support Specialist">
+    <title>Kuraior Terkumbur Janet - Freelance Professional</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="header-container">
+            <h1>Kuraior Terkumbur Janet</h1>
+            <p>Freelance Professional & Administrative Support Specialist</p>
+            <p>📞 +234 815 741 4956 | 📧 <a href="mailto:kuraiorjanet21@gmail.com">kuraiorjanet21@gmail.com</a> | 🌍 Remote, Nigeria</p>
+            <p><a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> | <a href="yourwebsite.com" target="_blank">Portfolio</a></p>
+        </div>
+    </header>
+
+    <section class="summary">
+        <h2>Professional Summary</h2>
+        <p>Resourceful and detail-oriented administrative support specialist with over 3 years of experience in providing remote services. Skilled at enhancing productivity through effective calendar management, data organization, and customer support. Highly proficient in communication and collaboration tools, delivering exceptional support across multiple industries.</p>
+    </section>
+
+    <section class="competencies">
+        <h2>Core Competencies</h2>
+        <ul>
+            <li>Administrative Excellence: Calendar Management, Data Entry, Document Preparation</li>
+            <li>Client Relations: Customer Support (Email, Chat, Phone), Client Retention Strategies</li>
+            <li>Remote Collaboration: Zoom, Slack, Microsoft Teams, Cross-Time Zone Coordination</li>
+            <li>Process Optimization: Workflow Automation, Time Management, Quality Assurance</li>
+        </ul>
+    </section>
+
+    <section class="experience">
+        <h2>Professional Experience</h2>
+
+        <h3>Freelance Virtual Assistant & Administrative Specialist</h3>
+        <p><strong>Remote | Jan 2022 – Present</strong></p>
+        <ul>
+            <li>Provided end-to-end administrative support for 10+ clients, optimizing email responses and workflow efficiency.</li>
+            <li>Handled client inquiries (via email, chat, and phone), resolving 50+ issues per week with a 95% customer satisfaction rate.</li>
+            <li>Developed a digital filing system that improved document retrieval times by 40%, ensuring streamlined operations.</li>
+        </ul>
+
+        <h3>Administrative Assistant</h3>
+        <p><strong>XYZ Corp., Lagos, Nigeria | Mar 2020 – Dec 2021</strong></p>
+        <ul>
+            <li>Assisted C-suite executives with calendar management, meeting scheduling, and document preparation.</li>
+            <li>Digitized over 200 physical records into a cloud-based system, improving access and regulatory compliance.</li>
+            <li>Trained 15+ employees on collaboration tools such as Microsoft Teams and Slack, boosting productivity by 25%.</li>
+        </ul>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <p><strong>B.A. (Ed) English Language</strong><br>
+        University of Abuja | Expected Graduation: 2025</p>
+    </section>
+
+    <section class="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li><strong>AXL Virtual Assistant Course</strong> | AXL Institute (2023)</li>
+            <li><strong>Google Digital Skills for Africa – Fundamentals of Digital Marketing</strong> | Google (2022)</li>
+        </ul>
+    </section>
+
+    <section class="skills">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Google Workspace, Microsoft Office Suite, Canva, Trello</li>
+            <li>CRM Systems, Social Media Management, Zoom/Teams Conferencing</li>
+        </ul>
+    </section>
+
+    <section class="additional">
+        <h2>Additional Information</h2>
+        <p>Bilingual: Fluent in English and [Add other languages if applicable].</p>
+        <p>Recognized for client satisfaction, reliability, and exceeding expectations in all tasks.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Kuraior Terkumbur Janet | All rights reserved</p>
+    </footer>
+
+</body>
+</html>
