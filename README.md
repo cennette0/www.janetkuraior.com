@@ -17,16 +17,13 @@ This site is built using simple **HTML and CSS** and is hosted using **GitHub Pa
 
 ## Live Website
 
-You can view the website here:  
-**[https://yourusername.github.io/your-repository-name](https://yourusername.github.io/your-repository-name)**  
-*(Replace with your actual GitHub Pages URL after deployment)*
+You can view the website here:  https://github.com/cennette0/www.janetkuraior.com/tree/main
 
 ## Contact
 
 **Email:** kuraiorjanet21@gmail.com  
 **Phone:** +234 815 741 4956  
 **Location:** Remote, Nigeria  
-**LinkedIn:** [Your LinkedIn URL] *(optional)*
 
 ---
 
